@@ -1,0 +1,20 @@
+[
+    {
+        "timestamp": "2026-07-08 19:43:38",
+        "source_ip": "172.16.243.1",
+        "username": "user",
+        "attempts": 1,
+        "event": "SSH_BRUTE_FORCE",
+        "risk_level": "LOW",
+        "risk_score": 25
+    },
+    {
+        "timestamp": "2026-07-08 19:43:38",
+        "source_ip": "172.16.243.1",
+        "username": "hacker",
+        "attempts": 12128,
+        "event": "SSH_BRUTE_FORCE",
+        "risk_level": "HIGH",
+        "risk_score": 95
+    }
+]

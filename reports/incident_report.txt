@@ -1,0 +1,28 @@
+===== INCIDENT REPORT =====
+
+
+Incident ID : INC-001
+Time        : 2026-07-08 19:43:38
+Source IP   : 172.16.243.1
+Username    : user
+Attempts    : 1
+Risk Level  : LOW
+Risk Score  : 25
+
+Recommendation:
+No immediate action required.
+
+----------------------------------------
+
+Incident ID : INC-002
+Time        : 2026-07-08 19:43:38
+Source IP   : 172.16.243.1
+Username    : hacker
+Attempts    : 12128
+Risk Level  : HIGH
+Risk Score  : 95
+
+Recommendation:
+Immediately investigate source IP. Consider blocking the IP and reviewing SSH configuration.
+
+----------------------------------------

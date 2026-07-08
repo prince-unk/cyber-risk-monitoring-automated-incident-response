@@ -36,7 +36,7 @@ The objective of this project was to:
 - Operating System: Parrot Security OS
 - Role: Attack Simulation
 
-![Attacker Machine](screenshots/01-network-topology-monitor.png)
+![Attacker Machine](screenshots/19-attacker-machine-parrot-os.png)
 
 ---
 
@@ -45,7 +45,7 @@ The objective of this project was to:
 - Operating System: Ubuntu Server
 - Role: Centralized Log Collection & Security Monitoring
 
-![Monitoring Server](screenshots/02-network-topology-target.png)
+![Monitoring Server](screenshots/01-network-topology-monitor.png)
 
 ---
 
@@ -54,7 +54,7 @@ The objective of this project was to:
 - Operating System: Ubuntu Server
 - Role: SSH Service
 
-![Target Server](screenshots/03-ssh-connect-monitor.png)
+![Target Server](screenshots/02-network-topology-target.png)
 
 ---
 
